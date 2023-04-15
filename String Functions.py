@@ -1,0 +1,8 @@
+a = input("Enter a string:")
+print(a.upper())
+print(a.lower())
+print(a.capitalize())
+print(len(a))
+b = input("Enter a paragraph or sentence:")
+print(b.count("I"))
+print(b.title())
